@@ -1,0 +1,115 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getData AddButtonEvent: toDoList 1`] = `
+<div
+  class="sc-dkPtRN MdcJK"
+  data-testid="todoList"
+>
+  <div
+    class="sc-hKwDye cAMyqg"
+  >
+    <p>
+      Учёт моих расходов
+    </p>
+  </div>
+  <div
+    class="sc-eCImPb gYpgYl"
+  >
+    <div
+      class="sc-jRQBWg xsnkM"
+    >
+      <div
+        class="sc-iCfMLu gLzwlp"
+      >
+        <label
+          for="where-accounting"
+        >
+          Куда было потрачено
+        </label>
+        <input
+          class="sc-gKclnd ejFmQy"
+          id="where-accounting"
+          type="text"
+        />
+      </div>
+      <div
+        class="sc-iCfMLu gLzwlp"
+      >
+        <label
+          for="how-much-accounting"
+        >
+          Сколько было потрачено
+        </label>
+        <input
+          class="sc-gKclnd coHNiZ"
+          id="how-much-accounting"
+          type="number"
+          width="180px"
+        />
+      </div>
+      <div
+        class="sc-jrQzAO ueAhs"
+      >
+        <button
+          class="sc-pVTFL bokSBJ"
+          data-testid="addButton"
+        >
+          Добавить
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-furwcr etPkRK"
+    >
+      Итого: 1000 р.
+    </div>
+    <div
+      class="sc-kDTinF fLNJUH"
+      id="view-accounting"
+    >
+      <div
+        class="sc-ksdxgE feVBbU"
+        data-testid="accounting"
+      >
+        <div
+          class="sc-egiyK fDobeA"
+        >
+          <p
+            class="sc-hBUSln iRESWR"
+          >
+            1) 
+          </p>
+        </div>
+        <div
+          class="sc-iqseJM gyIrNl"
+        >
+          <p
+            class="sc-hBUSln iRESWR"
+          >
+            NaN.NaN.NaN
+          </p>
+        </div>
+        <div>
+          <p
+            class="sc-hBUSln iRESWR"
+          />
+        </div>
+        <div
+          class="sc-bqiRlB kJCZuL"
+        >
+          <img
+            alt="cross"
+            class="sc-crHmcD eKBpnZ"
+            src="cross-removebg-preview.png"
+          />
+          <img
+            alt="pencil"
+            class="sc-crHmcD eKBpnZ"
+            src="pencil-red-eraser-removebg-preview.png"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
